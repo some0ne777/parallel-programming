@@ -25,16 +25,16 @@
 - Parallel time (1 threads): 0.0009012 seconds
 - Speedup: 0.000998668
 
-- Результирующая матрица сохраняется в файл (result.txt)
+**Результирующая матрица сохраняется в файл (result.txt)**
 
 ### Результаты работы(verify_results.py)
 - Max difference: 0.00e+00
 - VERIFICATION PASSED
 
 ###Запуск
-- Запуск программы:
+**Запуск программы:**
 - `.\lab1 3 ..\matrix_a.txt ..\matrix_b.txt ..\result.txt`
-- Верификация результатов:
+**Верификация результатов:**
 - `python verify_results.py 3 matrix_a.txt matrix_b.txt result.txt`
 
 
