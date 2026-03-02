@@ -18,18 +18,18 @@
 - `verify_results.py` - скрипт для проверки результатов
 
 ### Результаты работы(lab1.cpp)
-Вывод программы:
-Matrix size: 3x3
-Problem size: 27 elements
-Sequential time: 9e-07 seconds
-Parallel time (1 threads): 0.0009012 seconds
-Speedup: 0.000998668
+**Вывод программы:**
+- Matrix size: 3x3
+- Problem size: 27 elements
+- Sequential time: 9e-07 seconds
+- Parallel time (1 threads): 0.0009012 seconds
+- Speedup: 0.000998668
 
-Результирующая матрица сохраняется в файл (result.txt)
+- Результирующая матрица сохраняется в файл (result.txt)
 
 ### Результаты работы(verify_results.py)
-Max difference: 0.00e+00
-VERIFICATION PASSED
+- Max difference: 0.00e+00
+- VERIFICATION PASSED
 
 ###Запуск
 Запуск программы:
