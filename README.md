@@ -32,9 +32,9 @@
 - VERIFICATION PASSED
 
 ###Запуск
-**Запуск программы:**
+- **Запуск программы:**
 - `.\lab1 3 ..\matrix_a.txt ..\matrix_b.txt ..\result.txt`
-**Верификация результатов:**
+- **Верификация результатов:**
 - `python verify_results.py 3 matrix_a.txt matrix_b.txt result.txt`
 
 
